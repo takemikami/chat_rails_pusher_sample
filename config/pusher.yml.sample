@@ -1,0 +1,5 @@
+development:
+  app_id: <put your app_id>
+  access_key: <put your access key>
+  access_key_secret: <put your access key secret>
+
